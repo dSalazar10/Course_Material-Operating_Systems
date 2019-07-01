@@ -1,2 +1,2 @@
-# CS_421
-todo update readme
+# CS421
+Operating systems
