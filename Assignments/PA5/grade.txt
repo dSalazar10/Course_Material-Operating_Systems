@@ -1,0 +1,9 @@
+You have received 5 out of 5 on assignment 5 for the OS class. Your 
+analysis of the CPU algorithms you selected was complete and and you 
+included a good level of detail and comparison criteria. There are 
+situations when the algorithms are implemented in different ways that 
+cause either more or less efficiency depending on the type of jobs that 
+are being scheduled. You provided a nice comparison that was fair for 
+your selected algorithms. I hope this assignment helps you to better 
+understand some of the difficulties OS developers encounter when they 
+attempt to schedule work for processing in today's modern OS environments.

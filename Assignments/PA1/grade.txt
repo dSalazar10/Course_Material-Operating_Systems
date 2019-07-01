@@ -1,0 +1,8 @@
+You have received 5 out of 5 on assignment 1 for the OS class. Your 
+shell functionality was quite good. You implemented the correct 
+functionality for both the internal and external features. I like how 
+you kept track of the jobs in the system. You have demonstrated a good 
+understanding of how a shell is designed and how threads work in C. Nice 
+work on the program design as well as on the source code creation. Your 
+use of threads was effective! Overall, you are off to an excellent start 
+in this class!

@@ -1,0 +1,7 @@
+You did a great job with the "copy file" program for the operating 
+systems class (assignment 2). You have earned 5 out of 5. You 
+implemented the correct functionality using threads and you properly 
+copied the file using synchronized behaviors between the two threads. 
+Nice work on the program design and functionality. You can use these 
+same concepts as a bases for the creation of the logic and thread 
+synchronization of your next threading challenge, assignment 3.

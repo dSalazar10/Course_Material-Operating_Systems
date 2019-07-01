@@ -1,0 +1,8 @@
+You did a great job implementing the inter-process communication (IPC) 
+between the teach and the student threads. You have received 5 out of 5 
+on this assignment. Your thread design worked well and your simulation 
+of the scenario performed the necessary functionality without a 
+deadlock. This is an example of how operating systems need to 
+communicate between different processes who are requesting services from 
+I/O and other processes in the system. You did a great job with this 
+simulation.

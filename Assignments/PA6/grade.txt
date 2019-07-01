@@ -1,0 +1,7 @@
+You have received 5 out of 5 on assignment 6 for the OS class. Your 
+memory management comparison was good and it included a good level of 
+details and analysis. I hope that this assignment has helped you to 
+research and learn the differences between the different memory 
+concepts. You will want to review this chapter and assignment before the 
+final exam as you will see questions about Main and Virtual memory on 
+the final.

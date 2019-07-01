@@ -1,0 +1,6 @@
+You have received 5 out of 5 on the last assignment for the Operating 
+Systems class. Your demonstration of the LRU algorithm was good. I could 
+see your page faults and understand your logic. You implemented a good 
+demonstration with clear output. Nice work on the last assignment for 
+this class. Hopefully, this exercise will help you remember how the LRU 
+page replacement algorithm works.
